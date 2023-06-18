@@ -308,16 +308,6 @@
 
     },
 
-    "LOG_ALL_INFO": {
-
-      "description": "Log Chat Error True/False",
-
-      "value": "",
-
-      "required": false
-
-    },
-
     "QOBUZ_USER": {
 
       "description": "Qobuz User Id",
@@ -337,78 +327,6 @@
       "required": false
 
     },
-
-    "COPY_AUDIO_FILES": {
-
-      "description": "Dump Files True/False",
-
-      "value": "",
-
-      "required": false	    
-
-    },
-
-    "DUPLICATE_CHECK": {
-
-      "description": "Duplicate Check True/False",
-
-      "value": "",
-
-      "required": false	    
-
-    },
-
-    "SPOTIFY_CHAT": {
-
-      "description": "Channel Dump Files ID",
-
-      "value": "",
-
-      "required": false	    
-
-    },
-
-    "QOBUZ_CHAT": {
-
-      "description": "Channel Dump Files ID",
-
-      "value": "",
-
-      "required": false	    
-
-    },
-
-    "TIDAL_CHAT": {
-
-      "description": "Channel Dump Files ID",
-
-      "value": "",
-
-      "required": false	    
-
-    },
-
-    "DEEZER_CHAT": {
-
-      "description": "Channel Dump Files ID",
-
-      "value": "",
-
-      "required": false	    
-
-    },
-
-    "KKBOX_CHAT": {
-
-      "description": "Channel Dump Files ID",
-
-      "value": "",
-
-      "required": false	    
-
-    }
-
-  },
 
   "formation": {
 
